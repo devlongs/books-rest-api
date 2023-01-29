@@ -1,4 +1,4 @@
-module github.com/devlongs/restapi
+module github.com/devlongs/books-rest-api
 
 go 1.19
 
